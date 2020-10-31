@@ -22,6 +22,7 @@ I'm learning, developing and writing about software solutions, mainly in JavaScr
 
 - Javascript 
   - ReactJS
+  - VueJS
 - HTML
 - CSS
   - Bootstrap
