@@ -32,3 +32,12 @@ I'm learning, developing and writing about software solutions, mainly in JavaScr
 - Python
 - PHP
 - mySQL
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristinagoulart&theme=dark&layout=compact)](https://github.com/cristinagoulart/github-readme-stats)
+
+
+#### 🌱 Github  Stats
+
+![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristinagoulart&theme=dark&show_icons=true)
+
+
