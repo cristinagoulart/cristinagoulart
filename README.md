@@ -12,7 +12,7 @@
 
 <br>
 
- ### What I'm playing with...
+ ### What I'm playing with
 
   ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
   ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -38,10 +38,12 @@
 
 <br>
 
-### Some Quick stats about me
-| Top Languages | Github Stats |
+### Some Quick stats
+| Top Languages | Cristina's Github Stats |
 | --- | --- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristinagoulart&theme=dark&layout=compact&count_private=true)](https://github.com/cristinagoulart/github-readme-stats)| ![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristinagoulart&theme=dark&show_icons=true&count_private=true&layout=compact)
+|<a href="https://gicriscode.web.app/"><img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristinagoulart&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,205374,27a09e,30ce88,7de393&theme=graywhite" /></a>| <a href="https://gicriscode.web.app/"><img height="162px" src="https://github-readme-stats.vercel.app/api?username=cristinagoulart&hide_title=true&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=21&bg_color=7de393,30ce88,27a09e,205374&theme=graywhite" /></a>
+
+
 
 <h6 align="right">  
 by Cris with ❤️
